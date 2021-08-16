@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/home_back"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/story_select"
+        android:layout_width="160dp"
+        android:layout_height="161dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/select_back"
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="115dp"
+        android:padding="15dp"
+        android:src="@drawable/story3"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="121dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/coiny"
+        android:text="Story"
+        android:textColor="@color/home_text"
+        android:layout_marginLeft="146dp"
+        android:layout_marginTop="-10dp"
+        android:textSize="35dp"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <ImageView
+        android:id="@+id/rhymes_select"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/select_back"
+        android:padding="15dp"
+        android:src="@drawable/rhymes"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="25dp"
+        tools:layout_editor_absoluteX="126dp"
+        tools:layout_editor_absoluteY="405dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/coiny"
+        android:text="Rymes"
+        android:textColor="@color/home_text"
+        android:textSize="35dp"
+        android:layout_marginLeft="137dp"
+        android:layout_marginTop="-10dp"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="566dp" />
+
+</LinearLayout>

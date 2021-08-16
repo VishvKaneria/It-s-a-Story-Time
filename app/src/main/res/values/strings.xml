@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">It\'s a Story Time</string>
+
+    <string-array name="story_title">
+        <item> The Monkey and the Crocodile </item>
+        <item> The Stork and the Crab </item>
+        <item> The Elephants and the Mice </item>
+        <item> The Loyal Mongoose </item>
+        <item> The Tortoise and the Geese </item>
+        <item> A Tale of Three Fish </item>
+        <item> The Foolish Lion and the Clever Rabbit </item>
+        <item> The Jackal and the Drum </item>
+        <item> The Elephant and the Sparrows </item>
+        <item> Four Friends And A Hunter </item>
+        <item> The Talkative Tortoise </item>
+        <item> The King And The Foolish Monkey </item>
+        <item> The Crane And The Crab </item>
+        <item> The Brahmin’s Dream </item>
+        <item> The Wolf And The Crane </item>
+        <item> The Wise Minister’s Advice </item>
+    </string-array>
+
+    <string-array name="desc_story">
+
+        <item>
+            \n Once upon a time, in a forest, there lived a monkey who resided on a jamoon (berry) tree, which was on the banks of a river. In the same forest, there lived a crocodile and his wife. One day, the crocodile came to the banks of the river and rested under the tree. The kindhearted monkey offered him some fruits. The crocodile came back the next day for more fruits, as he loved them. As days passed by, the crocodile and the monkey became good friends.
+            \n\n One day, the monkey sent some fruits for the crocodile’s wife. She ate the fruits and liked them, but was jealous, as she didn’t like her husband spending time with the monkey. She told her husband, “If the fruits are so juicy, I wonder how sweet the monkey’s heart would be. Get me the heart of the monkey.” The crocodile was not willing to kill his friend, but had no choice.
+            \n\n He invited the monkey to his house for dinner and that his wife would like to meet him. The monkey was happy, but couldn’t swim, so the crocodile took him on his back. The crocodile was happy that he had tricked the monkey, however, while talking, he blurted out the real reason for taking the monkey home. The clever monkey said, “You should have told me earlier, I left my heart on the tree. We must go back and get it.” The crocodile believed him and took him back to the tree. Thus, the clever monkey saved his life.
+
+            \n\n Moral of the Story: Choose your company wisely and always have presence of mind.
+        </item>
+
+        <item>
+            \n Once upon a time, there lived a stork who used to pick fishes from the pond beside him, and eat them. However, as he grew older, he found it difficult to catch a single fish. In order to feed himself, he thought of a plan. He told the fish, frogs, and crabs, that some men are planning to fill the pond and grow crops, and that’s why there won’t be any fish in the pond. He also told them how sad he felt about this and that he will miss them all. The fish were sad and asked the stork to help them. The stork promised to take all of them to a bigger pond. However, he told them, “As I am old, I can take only a few of you at one go.” The stork would take the fishes to a rock, kill them, and eat them up. Every time he was hungry, he would take a few of them to the rock and eat them.
+            \n\n There lived a crab in the pond, who wanted to go to the bigger pond too. The stork thought of eating the crab for a change and agreed on helping him. On the way, the crab asked the stork, “Where is the big pond?” The stork laughed and pointed to the rock, which was filled with fish bones. The crab realised that the stork would kill him, and so quickly thought of a plan to save himself. He caught the stork’s neck and did not let it go until the stork died.
+
+            \n\n Moral of the Story: Always have a presence of mind and act quickly when in danger.
+        </item>
+
+        <item>
+            \n There was a village that was abandoned by its people after it shattered, post an earthquake. However, the mice living in the village decided to stay and make it their home. On the outskirts of this village, there was a lake, where a herd of elephants visited regularly to bathe and drink water. Since the village was on the way to this lake, the elephants trampled the mice while walking there. So, the king of mice decided to meet the elephants. He told them, \” O elephants, as you travel through the village, many mice are trampled. We will be very grateful if you could please consider changing your route. We will remember and return the favour when you are in need.\”
+            \n\n The elephant king laughed, \“We are giant elephants. What favour can you mice return? Nevertheless, we honour your request and change our route.\”
+            \n\n After a few days, the elephants got trapped and entangled in nets that were set up by hunters. They struggled hard to escape, but in vain. The elephant king remembered the promise made by the king of mice. So, he sent a fellow elephant who got lucky and was not trapped, to ask the mice king to come and help them.
+            \n\n Soon, all the mice came and started nibbling the nets, and freed the elephants. The king of the elephants couldn’t thank the mice enough!
+
+            \n\n Moral of the Story: A friend in need is a friend indeed. Always be kind to people, and grateful for their help.
+        </item>
+
+        <item>
+            \n A farmer couple had a pet mongoose. One day, the farmer and his wife had to urgently go out of the house for work, and so they left the mongoose with their infant, assured that he would guard their baby well. While they were gone, a snake stealthily entered the house and moved towards the cradle to attack the infant. The smart mongoose fought and killed the snake in order to protect the baby.
+            \n\n When the farmer\’s wife returned home, she was shocked to be greeted by blood stains on the mongoose\’s mouth and teeth. She lost her temper and shouted, \“You killed my baby!\” In her anger, she lost all control and killed the loyal mongoose. When she entered her house, she saw the baby alive, and the dead snake beside him. She realised what happened and regretted her actions.
+
+            \n\n Moral of the Story: Think before you act.
+        </item>
+
+        <item>
+            \n Once upon a time, beside a lake, there lived a tortoise and two geese who were great friends. As the lake was drying, the geese decided to migrate to a new place. The tortoise also wanted to move with them, but he couldn\’t fly, and so he pleaded the geese to take him with them. After trying really hard to convince them, finally, the geese agreed. They held a stick with their beaks and asked the tortoise to hold the stick with his mouth, warning him to not open his mouth and let go of the stick.
+            \n\n As they flew high, some onlookers thought that the tortoise was kidnapped and commented: \“Oh, the poor tortoise!\” This angered the tortoise and he immediately opened his mouth to say something back. As soon as he did, he fell to the ground and died.
+
+            \n\n Moral of the Story: Think before you speak. Listen to instructions, and follow them.
+        </item>
+
+        <item>
+            \n In a lake, there were three fish who were great friends. The first fish was very smart, the second one knew how to find his way out of trouble, and the third was adamant and hated changes. The first fish overheard a fisherman\’s conversation about coming back the next day and fishing in the lake. Sensing danger, he cautioned his friends to move out of the lake. The second fish said, \“I will stay here and find a way out if I’m caught.\” The third fish said, \“I do not want to move out. I will remain here, and if I have to get caught, I will.\” The first fish moved out. The next day, the fisherman arrived and caught the other two fish. The second one cleverly escaped by pretending to be dead. The third fish did nothing and got caught and died.
+
+            \n\n Moral of the Story: One should always be open to change and adapt accordingly. Take immediate action when you sense danger.
+        </item>
+
+        <item>
+            \n Once upon a time, there lived a greedy lion who attacked and killed animals, because of which every animal in the jungle was very afraid of him. One day, they decided that each animal would go to the lion, per day, as his prey. The lion agreed. When it was the rabbit\’s turn, they decided to send the wise old one. He travelled slowly and reached the lion\’s den before sunset. The lion furiously asked him, \“Why are you so late?” The rabbit answered, \”A group of rabbits were coming to you, but on their way, the others were attacked by another ferocious lion. I managed to escape and came here.\” The rabbit also mentioned that the other lion was challenging this one.
+            \n\n The lion was extremely angry and asked the rabbit to take him to meet the new lion. The wise rabbit took the lion to a deep well, and showed him his own reflection. As the lion growled, his reflection did the same. He considered this reflection to be his enemy. The enraged lion jumped into the well to attack the other lion, and ended up dying. Thus, the wise old rabbit saved himself, and all the animals in the forest.
+
+            \n\n Moral of the Story: One should always be open to change and adapt accordingly. Take immediate action when you sense danger.
+        </item>
+
+        <item>
+            \n Once upon a time, a jackal wandered away from his jungle and reached a deserted battlefield. He was very hungry, and so he started looking for food, when heard a strange sound. The jackal got scared and decided to run away, but then he thought, \“Let me carefully see who is making that sound.\” As he looked around, he found an abandoned drum lying next to a tree, and as the wind blew, the branches of the tree rubbed against it, making the sound. He was relieved and continued to search for food.
+
+            \n\n Moral of the Story: Face difficulties, instead of running away from them.
+        </item>
+
+        <item>
+            \n A sparrow couple had a beautiful nest with eggs, on a tall, strong tree, and were expecting their little ones soon. However, an arrogant elephant soon visited the area and shook the tree so hard, that he managed to destroy the nest and the eggs. Angered and saddened by this, the sparrows decided to seek revenge.
+            \n\n They asked their woodpecker friend to help them. The woodpecker, along with his friends, the fly and the frog, devised a plan. The frog asked the fly to buzz near the elephant\’s ear. He said, \“When the elephant closes his eyes, woodpecker, you must pierce his eyes. The elephant will stand up and try to find water. I will croak far away and the elephant will think there’s water around and reach the place. We will create a big pit and the elephant will fall into it.\”
+            \n\n At sunset, they worked as per the plan, and the elephant fell into the pit and died.
+
+            \n\n Moral of the Story: It’s not physical strength and haughtiness that wins, but intelligence and teamwork that matters.
+        </item>
+
+        <item>
+            \n A deer, a turtle, a crow and a rat were friends. They lived happily in a jungle. One day, the deer was caught in a hunter’s trap and the friends made a plan to save him. The deer struggled as if it was in pain and then it lie motionless, with eyes wide open, as if it were dead. The crow and the other birds then sat on the deer and started poking it as they do to a dead animal.
+            \n\n Right then, the turtle crossed the hunter’s path to distract him. The hunter left the deer, assuming it dead, and went after the turtle. Meanwhile, the rat chew open the net to free the deer while the crow picked up the turtle and quickly took it away from the hunter.
+
+            \n\n Moral: Teamwork can achieve great results.
+        </item>
+
+        <item>
+            \n Once upon a time, a tortoise named Kambugriva lived near a lake. It was friends with two swans that also lived in the lake. One summer, the lake began to dry up, and there was little water for the animals. The swans told the tortoise that there was another lake in another forest, where they should go to survive. They came up with a plan to take the tortoise along. They made the tortoise bite the center of a stick and told it not to open its mouth, no matter what.
+            \n\n The swans then held each end of the stick and flew, with the tortoise in between. People in the villages along the way saw a tortoise flying and were awestruck. There was a commotion on the ground about two birds taking a tortoise with the help of a stick. In spite of warnings from the swans, the tortoise opened its mouth and said: “what’s that commotion all about?” And then, it fell to its death.
+
+            \n\n Moral: One should speak only at the right moment.
+        </item>
+
+        <item>
+            \n There was once a king who had a pet monkey. The monkey always accompanied the king and even did little chores for him. One afternoon, as the king took a nap, the monkey sat next to the king and fanned him. Meanwhile, a fly came and sat on the king’s nose. The monkey tried to shoo it away, buy it kept coming back.
+            \n\n Frustrated with the fly, the monkey took the king’s dagger to kill it. He attacked the fly as it sat on the king’s neck, killing the king instantly.
+
+            \n\n Moral: A fool can never assist you to glory.
+        </item>
+
+        <item>
+            \n An old and cunning crab had difficulty in catching fish. To avoid starvation, it came up with a plan to get food easily. It sat on the banks of the river with a sad face one day. On being asked, the crane said that he foresaw that there would be a famine, and all the animals in the pond would die soon. The naive fish believed the crane and sought its help. The crane happily agreed to carry the fish in its mouth and leave them in another lake near the mountains,
+            \n\n That way, the crane filled its stomach. One day it decided to eat a crab and carried it on its back. The crab saw a lot of fish skeletons on a barren land nearby and asked the crane about it. The crane confessed proudly that it ate all the fish and now it would eat the crab. The crab acted quickly on hearing this and used its claws to kill the crane and save its life.
+
+            \n\n Moral: Do not believe hearsay; check the authenticity of the information before acting.
+        </item>
+
+        <item>
+            \n Once upon a time, there lived a poor brahmin without any friends or relatives. He was a miser and begged alms for a living. One day, he received a pot full of porridge by a generous person. He hanged the earthen pot from the wall and fell asleep staring at it. He drifted into deep sleep and dreamt that there was a famine, and that he exchanged his pot of porridge for a hundred gold coins.
+            \n\n He dreamt that he bought a pair of goats and cows with the money, and made more money by trading milk. He also dreamt that a rich merchant offered his daughter’s hand in marriage and that he had a kid. He was relaxing at home when a group of kids would disturb him. Imagining that he was scaring them away with a stick, he picks up the nearby stick in his sleep and starts waving it around.
+            \n\n The brahmin wakes up suddenly, feeling the porridge on his hands and feet. He realizes that he had destroyed the only food he had for the day and repents his actions.
+
+            \n\n Moral: Do not build castles in the air.
+        </item>
+
+        <item>
+            \n Deep in the forest, there lived a selfish wolf. One day, a hungry wolf was eating his prey. He was eating so rapidly that a bone got stuck in his throat. He ran around the forest howling in pain. \“Please, help me! I will reward handsomely if anyone would remove the bone from my throat,\” cried the wolf.
+            \n\n The wolf was very cunning and never helped anyone in the past. When all the animals heard his cries, none of them came near to help him. A passing crane took pity on the wolf. Even though the task was dangerous, the lure of the profit-motivated him to help. So, the crane decided to help him.
+            \n\n \“I will help you but you need to stay still. I will look down your throat and then remove the bone,\” explained the crane. The wolf opened his mouth wide. Soon, the crane peered into his mouth. He soon saw the bone lodged inside.
+            \n\n The only way to get the bone out of the wolf\’s throat was to put his beak into his throat. She put her beak in and tried to reach the bone but it was lodged well and truly deep in his throat. The crane then put her whole head into the wolf’s mouth. He finally managed to get a grip on the bone and pull it out of his throat. As promised, the crane did his job.
+            \n\n The wolf was very relieved that he had been saved. \“Now, give me my reward!\” the crane demanded. \“What reward? You greedy fellow! You had your head in my throat and instead of eating you up, I let you go unharmed. That should be reward enough for you! Go away or I will crush you!\” the selfish wolf said.
+            \n\n The crane walked away disappointed. Soon, he fled into the forest glad that he had come out of the situation alive. Ath the same time, he felt happy that he helped in saving someone\’s life.
+
+            \n\n Moral: Greed did not go well with gratitude.
+        </item>
+
+        <item>
+            \n A gang of owls attacked some crows in a forest, one night, and killed them all. Because the crows couldn\’t see clearly at night, they couldn\’t fight back.
+            \n\n The King of the crows was so distressed to hear the news, that he went to his wise old minister for guidance. The minister gave him some advice and sent him back.
+            \n\n The next day, the crows went to the owl\’s cave and put on a dramatic show! One crow pretended to praise the owls and the other ones struck him down! Seeing this, the Owl King thought that this crow was in favour of the owls. The crow continued to live with the owls, till one morning, the crow flew away, and with the help of his crow friends, set fire to the entrance of the owl cave! Since owls are nocturnal creatures, they were fast asleep, and all of them were killed!
+
+            \n\n Moral of the Story: Keep your friends close, but your enemies closer.
+        </item>
+
+    </string-array>
+</resources>
